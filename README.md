@@ -1,5 +1,4 @@
 # api-keys
-# Student Management API
 
 This is a simple CRUD (Create, Read, Update, Delete) API for managing student data. It's built with Node.js, Express.js, and Mongoose.
 
