@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository
 2. Install dependencies with `npm install`
 3. Set up your `.env` file with your `DB_URL` (MongoDB connection string)
-4. Run the server with `npm start`
+4. Run the server with `npm run dev`
 
 ## API Endpoints
 
